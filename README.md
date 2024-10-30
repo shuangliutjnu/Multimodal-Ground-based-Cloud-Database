@@ -5,7 +5,7 @@ The TJNU multimodal ground-based cloud database (MGCD) is collected in Tianjin, 
 
 Hereunder, the table lists the corresponding multimodal cloud information of the above ground-based cloud images.
 
-2-1
+![2-1](https://github.com/shuangliutjnu/Multimodal-Ground-based-Cloud-Database/blob/main/2-1.jpg)
 
 # If you use this dataset in your research, please cite our work as,
 @article{liu2020ground,  
